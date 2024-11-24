@@ -1,0 +1,6 @@
+    |------------|
+    |PPP|PPFPPPPP|
+    |P@P|PPPPPP|F|
+    |PPPPP|PPPP|P|
+    |PPPPPP|FPP|P|
+    |------------|
